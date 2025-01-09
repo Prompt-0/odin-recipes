@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+}
+
+.recipe, #home-button {
+    font-size: 15px;
+    font-weight: bold;
+    color: rgba(3, 3, 3, 0.813);
+    font-family: "Serif";
+}
+
+ul,ol {
+    font-family: "Sans-serif";
+}
+
+ul {
+    background-color: aquamarine;
+}
+
+ol {
+    background-color: aqua;
+}
+
+h3 {
+    background-color: bisque;
+    color: rgb(56, 5, 28);
+}
+
+.des {
+    font-weight: 600;
+}
+
+#HL {
+    background-color: aliceblue;
+}
